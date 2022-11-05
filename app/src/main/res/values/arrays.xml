@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="students_group">
+        <item>К20-1</item>
+        <item>К20-2</item>
+        <item>К20-3</item>
+        <item>К20-4</item>
+    </string-array>
+</resources>
